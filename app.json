@@ -7,7 +7,7 @@
 
   "env": {
       "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "ANJU-XPRO~ydNh0YiR#Wlqx4pz37owHCl4ob5hbYY92LvlgTsZ_qiULUyKB5_k",
       "required": true
      },
       "GITHUB_TOKEN": {
